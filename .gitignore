@@ -1,5 +1,6 @@
 .springBeans
 .settings/
+.vscode/
 .project
 .classpath
-target/
+/target/
